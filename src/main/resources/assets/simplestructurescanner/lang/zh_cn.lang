@@ -406,7 +406,7 @@ gui.structurescanner.blacklist.message=该位置在本世界中将不再被匹�
 gui.structurescanner.blocks.title=%s中的方块
 gui.structurescanner.blocks.loading=正在加载方块……
 gui.structurescanner.blocks.noBlocks=未找到方块
-gui.structurescanner.blocks.count=%,d个方块
+gui.structurescanner.blocks.count=%,d种方块
 gui.structurescanner.blocks.countTooltip=该结构中共有%,d个方块
 gui.structurescanner.blocks.fluidAmount=总计%,d mB
 
